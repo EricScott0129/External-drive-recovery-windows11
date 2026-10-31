@@ -60,14 +60,14 @@ Gained hands-on experience troubleshooting external storage, using Windows DiskP
 ## Screenshots
 
 ### 1. DiskPart Drive Identification
-![Drive Properties](Screenshots/file%203.png)!
+![Drive Properties](Screenshots/file%201.png)!
 
 ### 2. External Drive Folder Organization
-![DiskPart](Screenshots/file%201.png)
+![DiskPart](Screenshots/file%202.png)
 
 ### 3. Drive Properties and NTFS Verification
-![Troubleshooting](Screenshots/file%201.png)
+![Troubleshooting](Screenshots/file%203.png)
 
 ### 4. Additional Troubleshooting Evidence
-![Folder Organization](Screenshots/file%205.png)
+![Folder Organization](Screenshots/file%204.png)
 
