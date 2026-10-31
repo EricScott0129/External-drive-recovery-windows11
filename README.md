@@ -66,7 +66,7 @@ Gained hands-on experience troubleshooting external storage, using Windows DiskP
 ![DiskPart](Screenshots/file%201.png)
 
 ### 3. Drive Properties and NTFS Verification
-[Troubleshooting](Screenshots/file%204.png)
+![Troubleshooting](Screenshots/file%204.png)
 
 ### 4. Additional Troubleshooting Evidence
 ![Folder Organization](Screenshots/file%202.png)
