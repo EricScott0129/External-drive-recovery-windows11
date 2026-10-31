@@ -1,4 +1,3 @@
-# external-drive-recovery-windows11
 # External Drive Recovery & Configuration – Windows 11
 
 ## Project Overview
