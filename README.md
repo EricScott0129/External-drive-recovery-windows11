@@ -69,5 +69,5 @@ Gained hands-on experience troubleshooting external storage, using Windows DiskP
 ![Troubleshooting](Screenshots/file%201.png)
 
 ### 4. Additional Troubleshooting Evidence
-![Folder Organization](Screenshots/file%202.png)
+![Folder Organization](Screenshots/file%205.png)
 
