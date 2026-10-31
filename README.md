@@ -59,4 +59,16 @@ Created folders for:
 Gained hands-on experience troubleshooting external storage, using Windows DiskPart commands, and restoring a drive to a usable state.
 ## Screenshots
 
+### 1. DiskPart Drive Identification
+![DiskPart](Screenshots/file%201.png)
+
+### 2. External Drive Folder Organization
+![Folder Organization](Screenshots/file%202.png)
+
+### 3. Drive Properties and NTFS Verification
+![Drive Properties](Screenshots/file%203.png)
+
+### 4. Additional Troubleshooting Evidence
+![Troubleshooting](Screenshots/file%204.png)
+
 
